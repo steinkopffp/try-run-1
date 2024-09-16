@@ -1,0 +1,7 @@
+.image-show picture {
+    display: none;
+}
+
+.image-show picture.show {
+    display: block;
+}
